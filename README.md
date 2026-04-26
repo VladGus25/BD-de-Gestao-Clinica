@@ -57,14 +57,13 @@ O sistema possui autenticação por login com dois níveis de permissão:
 ## Demonstração (Prints do Sistema)
 
 ### 1. Tela de Login com Autenticação por Cargo
-![Tela de Login](prints/tela_login.jpg)
+![Tela de Login](Projeto_Final_Gestao_Clinica/prints/tela_login.jpg)
 
 ### 2. Menu Principal com as 13 Operações Disponíveis
-![Menu Principal](prints/menu_principal.jpg)
+![Menu Principal](Projeto_Final_Gestao_Clinica/prints/menu_principal.jpg)
 
 ### 3. Relatório Completo de Atendimentos (INNER JOIN)
-![Relatório JOIN](prints/relatorio_join.jpg)
-
+![Relatório JOIN](Projeto_Final_Gestao_Clinica/prints/relatorio_join.jpg)
 ---
 
 ##  Como Executar o Projeto
