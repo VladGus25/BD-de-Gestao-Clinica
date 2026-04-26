@@ -57,13 +57,13 @@ O sistema possui autenticação por login com dois níveis de permissão:
 ## Demonstração (Prints do Sistema)
 
 ### 1. Tela de Login com Autenticação por Cargo
-![Tela de Login](tela_login.png)
+![Tela de Login](prints/tela_login.jpg)
 
 ### 2. Menu Principal com as 13 Operações Disponíveis
-![Menu Principal](menu_principal.png)
+![Menu Principal](prints/menu_principal.jpg)
 
 ### 3. Relatório Completo de Atendimentos (INNER JOIN)
-![Relatório JOIN](relatorio_join.png)
+![Relatório JOIN](prints/relatorio_join.jpg)
 
 ---
 
